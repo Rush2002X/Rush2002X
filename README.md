@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </h1>
@@ -29,13 +30,23 @@
 
 ### 🔥 Current Focus
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="right">
-  
-- 🚧 Building **Industrial Bus Management System**
-- 📚 Studying **Full-Stack Engineering @ BCU**
-- 🌱 Mastering **JavaScript | PHP | Java | Databases**
-- 🤝 Looking to collaborate on **open-source projects**
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" align="center">
 </p>
+
+<p align="center"> <a href="https://twitter.com/@sahanrash997" target="blank"><img src="https://img.shields.io/twitter/follow/@sahanrash997?logo=twitter&style=for-the-badge" alt="@sahanrash997" /></a> </p>
+
+
+- 🔭 I’m currently working on **Industrial Bus Management System**
+
+- 🌱 I’m currently learning **Full-Stack Software Engineering Degree at Birmingham City University | Stack: JavaScript, Html, php, Java, Databases etc**
+
+- 🤝 I’m looking for help with **building a responsive UI for my open-source project**
+
+- 💬 Ask me about **How to balance theory vs. practical projects, or my journey into coding!**
+
+- 📫 How to reach me **dgrashmithasahan02@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/sahan-rashmitha-140788283](www.linkedin.com/in/sahan-rashmitha-140788283)
 
 ---
 
@@ -55,12 +66,9 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 
 
-
-
 #### 🗃️ Databases
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-
 
 
 #### 🔧 Tools
@@ -68,9 +76,6 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-
-
 
 
 </div>
