@@ -110,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox01240&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="rush2002x">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush2002x&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="rush2002x">
 </div>
 
 ---
