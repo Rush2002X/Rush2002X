@@ -101,16 +101,19 @@
 </div>
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=vibodhaliyanage&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
 
 ![snake gif](https://github.com/vibodhaliyanage/vibodhaliyanage/blob/output/github-snake-dark.svg)
+</div>
+
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rush2002x&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="rush2002x" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rush2002x&theme=vision-friendly-dark&hide_border=true" alt="rush2002x" width="48%">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rush2002x&theme=vision-friendly-dark&hide_border=true" alt="rush2002x" width="48%"> -->
 </div>
 
 <div align="center">
