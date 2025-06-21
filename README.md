@@ -102,6 +102,10 @@
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=vibodhaliyanage&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/vibodhaliyanage/vibodhaliyanage/blob/output/github-snake-dark.svg)
+
 ### 📊 GitHub Stats
 
 <div align="center">
